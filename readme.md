@@ -4,16 +4,9 @@ Guessing Game, part II
 Citation for numeric-input question help:
 http://stackoverflow.com/questions/18042133/check-if-input-is-number-or-letter-javascript
 
-Funny joke time:
+Citation for .toLowerCase() application:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 
-What is perfect pitch?
+Funny comic time! Another banjo-themed joke:
 
-It's when you throw a banjo out the window, and it lands on an accordion.
-
-
-
-
-
-
-
-(That's all I've got.)
+<html><img src="https://s-media-cache-ak0.pinimg.com/originals/ab/89/32/ab893234a9efe22fe17eba74c816dd8b.jpg" /></html>
